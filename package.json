@@ -1,0 +1,2 @@
+{"name":"dabang-wpp-verificador","version":"1.0.0","type":"module","scripts":{"start":"node server.js"},
+"dependencies":{"@whiskeysockets/baileys":"^6.7.18","pino":"^9.0.0","qrcode":"^1.5.4"}}
